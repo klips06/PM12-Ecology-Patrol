@@ -1,0 +1,3 @@
+Unity автоматически дополнит ProjectSettings/ после первого открытия проекта.
+Точная рекомендуемая версия редактора: 6000.6.2f1.
+Для Input.GetKey установи Active Input Handling = Input Manager (Old) или Both.
